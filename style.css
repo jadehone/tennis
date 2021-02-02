@@ -1,0 +1,23 @@
+.center{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size: 3vw;
+}
+
+body{
+  background-color: #4582AD;
+}
+
+button{
+  font-family: 'Allerta Stencil', sans-serif;
+  font-weight: bold;
+  padding: 0.5vw;
+  border-radius: 50%;
+  margin-bottom: 1vw;
+  outline-style: none;
+  background-color: white;
+
+}
