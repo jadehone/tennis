@@ -132,7 +132,7 @@ function moveAll(){
 
 function drawNet(){
   for(var i=0; i < canvas.height; i+=40){
-    colorRect(canvas.width/2-1,i,2,20, 'white')
+    colorRect(canvas.width/2-1,i+5,2,30, 'white')
   }
 }
 
